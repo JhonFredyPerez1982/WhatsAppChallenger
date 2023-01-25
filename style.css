@@ -1,0 +1,20 @@
+.card {
+          box-shadow: 2px 4px 4px 4px rgba(43, 43, 43, 0.16);
+      text-shadow: 2px 3px 4px chocolate;
+            position: relative;
+                width: 23%;
+                 margin: 2%;	
+           background-color: #FFF;
+           text-align: center;
+                  font-size: 35px;
+                  font-weight: bold;
+                }
+                .box1{
+                    text-shadow: 2px 3px 4px rgb(97, 170, 97);
+                    font-size: 45px;
+                }
+                .box2{
+                    text-shadow: 2px 3px 40px green;
+                    font-size: 45px;
+              
+                }
