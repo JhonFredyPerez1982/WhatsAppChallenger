@@ -1,7 +1,7 @@
 
 ( ( )=>{const createTask=() => {
         const question=document.querySelector("[data-question]");
-        const value="space thought can asignar some value to one type data and do self-operation among they...<br> it´s:<br>byte,short,int,long;<br>float,double;<br>char,bolean;";
+        const value="empty through wich can appoint some value to one type data and do self-operation among they...<br> it´s:<br>byte,short,int,long;<br>float,double;<br>char,bolean;";
         question.classList.add("card");
         const content=`${value}`;
       question.innerHTML=content;
